@@ -32,3 +32,6 @@ namespace gradebook
         }
     }
 }
+
+//if in prompt no name is entered, the output will be else statement
+//if a name was entered, you will see Hello from name
